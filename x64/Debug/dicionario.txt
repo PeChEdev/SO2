@@ -1,0 +1,9 @@
+carta
+letra
+jogo
+planta
+animal
+livro
+carro
+verde
+tempo
